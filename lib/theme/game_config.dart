@@ -23,7 +23,7 @@ class GameConfig {
 const gameConfig = GameConfig(
   slug: 'candycannonrush',
   displayName: 'Candy Cannon Rush',
-  tagline: 'Shoot candies into children's bags',
+  tagline: 'Shoot candies into children\'s bags',
   primary: 0xFF607D8B,
   dark: 0xFF0A0F14,
   accent: 0xFF00E5FF,
